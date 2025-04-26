@@ -27,7 +27,9 @@ python src/manage_rules.py install ~/git/my_project
 ## Project Layout
 
 .cursor/rules/     # Cursor rule files
+
 .clinerules/       # CLINE rules
+
 .roo/              # (todo) RooCode rules
 
 ## Roadmap & Community
