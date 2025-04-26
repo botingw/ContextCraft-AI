@@ -11,7 +11,7 @@
 | Feature | Why it matters |
 |---------|---------------|
 | **Memory-first design** | Docs/ & tasks/ folders captured as long-term context. |
-| **Universal rulebook** | Same Plan • Implement • Debug flows on every IDE. |
+| **Universal rulebook** | Same Plan • Implement • Debug flows on every IDE (Cursor, Cline, Roo Code, Windsurf). |
 | **Portable & lean** | Loads only the rules each assistant needs → fewer tokens. |
 | **Quick migration** | One-command installer copies templates into any repo. |
 | **SemVer + changelog** | Stay in sync with assistant updates. |
