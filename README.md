@@ -39,7 +39,7 @@ See tasks/tasks_plan.md for P0–P3 feature milestones. PRs & issues welcome!
 > This repository is a **name-testing mirror** with no code inside.  
 > Click below to explore the full project, docs and install script:
 
-[Go to the working repo](https://github.com/botingw/rules_template?src=github_abtest-ContextCraft-AI)
+[Go to the working repo](https://github.com/botingw/rulebook-ai?src=github_abtest-ContextCraft-AI)
 
 
 docs/              # PRD, architecture, tech specs
