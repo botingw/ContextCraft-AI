@@ -2,6 +2,12 @@
 
 <!-- Badges here (license, build) -->
 
+> **Heads-up!**  
+> This repository is a **name-testing mirror** with no code inside.  
+> Click below to explore the full project, docs and install script:
+
+[Go to the working repo](https://github.com/botingw/rulebook-ai?src=github_abtest-ContextCraft-AI)
+
 # ContextCraft-AI 🧠 — Memory-Centric Rules for Reliable AI Coding
 
 **Give your AI coding assistants real project memory.** ContextCraft-AI weaves a structured “Memory Bank” with platform-specific rules so Cursor, CLINE, RooCode & Windsurf answer consistently—even on complex, multi-repo codebases.
